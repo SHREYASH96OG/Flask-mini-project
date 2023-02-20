@@ -10,7 +10,7 @@
     <li><img src="./fi/4.png" alt=""></li>
     <li><img src="./fi/5.png" alt=""></li>
     <li><img src="./fi/6.png" alt=""></li>
-    <li>Run Flask project.<img src="7.png" alt=""></li>
+    <li>Run Flask project.<img src="./fi/7.png" alt=""></li>
   </ol>
  </li>
 </ul>
