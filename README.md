@@ -7,9 +7,9 @@
   <ol><li>First create folder for project.<img src="" alt=""></li>
     <li>Open folder in Terminal <img src="./fi/2.png" alt=""></li>
     <li>Give permissions <img src="./fi/3.png" alt=""></li>
-    <li><img src="" alt="./fi/4.png"></li>
-    <li><img src="" alt="./fi/5.png"></li>
-    <li><img src="" alt="./fi/6.png"></li>
+    <li><img src="./fi/4.png" alt=""></li>
+    <li><img src="./fi/5.png" alt=""></li>
+    <li><img src="./fi/6.png" alt=""></li>
   </ol>
  </li>
 </ul>
